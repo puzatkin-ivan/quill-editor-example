@@ -1,0 +1,1 @@
+const ROOT_URL = '/uploads/text_image';

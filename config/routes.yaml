@@ -1,0 +1,11 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+open_editor:
+  path: /editor/open
+  controller: App\Controller\OpenEditorController::openEditor
+
+upload_image:
+  path: /image/upload
+  controller: App\Controller\UploadImageController::upload
